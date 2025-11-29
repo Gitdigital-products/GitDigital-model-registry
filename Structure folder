@@ -1,0 +1,13 @@
+/src
+  /routes
+    register.py
+    list_models.py
+    metadata.py
+  /db
+    database.py
+    model_schema.py
+  /config
+    settings.py
+main.py
+requirements.txt
+Dockerfile
